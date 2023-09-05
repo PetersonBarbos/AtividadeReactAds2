@@ -1,3 +1,20 @@
+body{
+  background-color: rgb(235, 235, 235);
+}
+
 .lateral{
   display: inline-block;
+}
+#destacado{
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+  margin: 1px 1px 1px 1px;
+  text-align: center;
+}
+#naodestacado{
+  height: 100vh;
+  width: 700px;
+  text-align: center;
 }
